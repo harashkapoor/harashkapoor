@@ -14,4 +14,10 @@
 - 🌍 **[Observability for Kubernetes-based 5G/6G](https://github.com/your-repo)** – Integrated **Prometheus, Grafana, Free5GC, and Kubernetes monitoring**  
 - 🌐 **[User-Centered Web App](https://github.com/your-repo)** – Designed UI with **Figma, HTA, and user personas**  
 
-💡 Check out my **repositories** for more cool projects!  
+## Featured Repositories  
+
+- **[COSC-4P02 Project](https://github.com/RohittPillai/COSC-4P02-PROJECT)**: [Brief description]  
+- **[Production Times](https://github.com/Rough-Egoist/Production-Times)**: [Brief description]  
+- **[SmartStack](https://github.com/SJLEE411/SmartStack)**: [Brief description]  
+- **[Free5GC Kubernetes](https://github.com/yathy1040/free5gc-k8s)**: [Brief description]
+
