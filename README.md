@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @harashkapoor
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on PROJECTS
-- 📫 How to reach me hk20ob@brocku.ca
+# Harsh Kapoor  
 
-<!---
-harashkapoor/harashkapoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Harsh Kapoor  
+🚀 Passionate about **Cloud Computing, DevOps, and Software Development**  
+🌱 Currently learning **C# and advanced cloud orchestration (Kubernetes, Terraform, GCP)**  
+👨‍💻 Open to **collaborating on open-source projects**  
+📫 Reach me at **hk20ob@brocku.ca**  
+
+🔗 **Connect with me:**  
+- 💼 [LinkedIn](https://linkedin.com/in/harsh-kapoor-82b661213)  
+- 🔗 [GitHub](https://github.com/harashkapoor)  
+
+📂 **Featured Projects:**  
+- 🌍 **[Observability for Kubernetes-based 5G/6G](https://github.com/your-repo)** – Integrated **Prometheus, Grafana, Free5GC, and Kubernetes monitoring**  
+- 🌐 **[User-Centered Web App](https://github.com/your-repo)** – Designed UI with **Figma, HTA, and user personas**  
+
+💡 Check out my **repositories** for more cool projects!  
