@@ -1,23 +1,43 @@
-# Harsh Kapoor  
+# Harsh Kapoor
 
-👋 Hi, I'm Harsh Kapoor  
-🚀 Passionate about **Cloud Computing, DevOps, and Software Development**  
-🌱 Currently learning **C# and advanced cloud orchestration (Kubernetes, Terraform, GCP)**  
-👨‍💻 Open to **collaborating on open-source projects**  
-📫 Reach me at **hk20ob@brocku.ca**  
+👋 Hi, I’m Harsh Kapoor!  
+🎓 Bachelor of Computer Science (BSc) – Brock University (Graduating Fall 2025)  
+📫 Reach me at [hk20ob@brocku.ca](mailto:hk20ob@brocku.ca)  
+🌐 Check out my [LinkedIn](https://www.linkedin.com/in/harsh-kapoor-82b661213/) and [GitHub](https://github.com/harashkapoor).  
 
-🔗 **Connect with me:**  
-- 💼 [LinkedIn](https://linkedin.com/in/harsh-kapoor-82b661213)  
-- 🔗 [GitHub](https://github.com/harashkapoor)  
+---
 
-📂 **Featured Projects:**  
-- 🌍 **[Observability for Kubernetes-based 5G/6G](https://github.com/your-repo)** – Integrated **Prometheus, Grafana, Free5GC, and Kubernetes monitoring**  
-- 🌐 **[User-Centered Web App](https://github.com/your-repo)** – Designed UI with **Figma, HTA, and user personas**  
+## About Me
 
-## Featured Repositories  
+- 👀 I’m passionate about programming, problem-solving, and collaborating on impactful projects.  
+- 🌱 Currently learning advanced cloud infrastructure (GCP) and enhancing my Kubernetes/DevOps skills.  
+- 💼 Open to new opportunities in software engineering, DevOps, and data engineering.  
+- 💞️ I’m looking to collaborate on **open-source projects** and **innovative technologies**.  
 
-- **[COSC-4P02 Project](https://github.com/RohittPillai/COSC-4P02-PROJECT)**: [Brief description]  
-- **[Production Times](https://github.com/Rough-Egoist/Production-Times)**: [Brief description]  
-- **[SmartStack](https://github.com/SJLEE411/SmartStack)**: [Brief description]  
-- **[Free5GC Kubernetes](https://github.com/yathy1040/free5gc-k8s)**: [Brief description]
+---
 
+## Featured Repositories
+
+Here are some of the repositories I’ve contributed to or worked on:
+
+- **[COSC-4P02 Project](https://github.com/RohittPillai/COSC-4P02-PROJECT)**: Collaborative university project focusing on [add brief project description].  
+- **[Production Times](https://github.com/Rough-Egoist/Production-Times)**: Developed tools for analyzing production metrics and streamlining reporting workflows.  
+- **[SmartStack](https://github.com/SJLEE411/SmartStack)**: Implemented solutions for [add brief description], enhancing scalability and efficiency.  
+- **[Free5GC Kubernetes](https://github.com/yathy1040/free5gc-k8s)**: Worked on Kubernetes-based 5G core network deployments and monitoring.  
+
+---
+
+## Skills & Tools
+
+- **Programming Languages**: Python, Java, C++, JavaScript, SQL, Bash.  
+- **Technologies**: Kubernetes, Prometheus, Grafana, Docker, Terraform, Jenkins, Google Cloud (GCP).  
+- **Front-End Development**: HTML, CSS, JavaScript, React.  
+- **Database Systems**: MySQL, PostgreSQL, MongoDB.  
+
+---
+
+## Let's Connect
+
+- **Email**: [hk20ob@brocku.ca](mailto:hk20ob@brocku.ca)  
+- **GitHub**: [github.com/harashkapoor](https://github.com/harashkapoor)  
+- **LinkedIn**: [linkedin.com/in/harsh-kapoor-82b661213](https://www.linkedin.com/in/harsh-kapoor-82b661213/)  
