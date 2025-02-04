@@ -20,10 +20,10 @@
 
 Here are some of the repositories I’ve contributed to or worked on:
 
-- **[COSC-4P02 Project](https://github.com/RohittPillai/COSC-4P02-PROJECT)**: Collaborative university project focusing on [add brief project description].  
-- **[Production Times](https://github.com/Rough-Egoist/Production-Times)**: Developed tools for analyzing production metrics and streamlining reporting workflows.  
-- **[SmartStack](https://github.com/SJLEE411/SmartStack)**: Implemented solutions for [add brief description], enhancing scalability and efficiency.  
-- **[Free5GC Kubernetes](https://github.com/yathy1040/free5gc-k8s)**: Worked on Kubernetes-based 5G core network deployments and monitoring.  
+- **[COSC-4P02 Project](https://github.com/RohittPillai/COSC-4P02-PROJECT)**  
+- **[Production Times](https://github.com/Rough-Egoist/Production-Times)**  
+- **[SmartStack](https://github.com/SJLEE411/SmartStack)**  
+- **[Free5GC Kubernetes](https://github.com/yathy1040/free5gc-k8s)**  
 
 ---
 
